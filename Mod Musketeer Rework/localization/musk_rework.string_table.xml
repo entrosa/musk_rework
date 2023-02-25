@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+			<!-- Musketeer Abilities -->
+    <entry id="combat_skill_name_musketeer_aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="combat_skill_name_musketeer_call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="combat_skill_name_musketeer_sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[Raise Morale]]></entry>
+    <entry id="combat_skill_name_musketeer_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_musketeer.aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="upgrade_tree_name_musketeer.call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="upgrade_tree_name_musketeer.sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="upgrade_tree_name_musketeer.patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="upgrade_tree_name_musketeer.skeet_shot"><![CDATA[Raise Morale]]></entry>
+			<!-- Musketeer Trinkets -->
+    <entry id="str_inventory_title_trinketmedics_boots"><![CDATA[Confy Boots]]></entry>
+			<!-- Musketeer Camping Skills -->
+    <entry id="camping_skill_name_field_dressing_musketeer_rework"><![CDATA[CHEER UP]]></entry>
+    <entry id="camping_skill_name_triage_musketeer_rework"><![CDATA[ONE FOR ALL]]></entry>
+    <entry id="str_bark_field_dressing_musketeer_rework"><![CDATA[Have you heard of the musketeers code of honor?]]></entry>
+    <entry id="str_bark_triage_musketeer_rework"><![CDATA[One for all and all for one!]]></entry>
+
+  </language>
+  <language id="brazilian">
+			<!-- Musketeer Abilities -->
+    <entry id="combat_skill_name_musketeer_aimed_shot"><![CDATA[Tiro Certeiro]]></entry>
+    <entry id="combat_skill_name_musketeer_smokescreen"><![CDATA[Gás lacrimogêneo]]></entry>
+    <entry id="combat_skill_name_musketeer_call_the_shot"><![CDATA[Ordernar Tiro]]></entry>
+    <entry id="combat_skill_name_musketeer_buckshot"><![CDATA[Balaço Quebra Escudo]]></entry>
+    <entry id="combat_skill_name_musketeer_sidearm"><![CDATA[Arma de Mão]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[Mantenha o Foco]]></entry>
+    <entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[Levantar a Moral]]></entry>
+    <entry id="combat_skill_name_musketeer_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_musketeer.aimed_shot"><![CDATA[Tiro Certeiro]]></entry>
+    <entry id="upgrade_tree_name_musketeer.smokescreen"><![CDATA[Gás lacrimogêneo]]></entry>
+    <entry id="upgrade_tree_name_musketeer.call_the_shot"><![CDATA[Ordernar Tiro]]></entry>
+    <entry id="upgrade_tree_name_musketeer.buckshot"><![CDATA[Balaço Quebra Escudo]]></entry>
+    <entry id="upgrade_tree_name_musketeer.sidearm"><![CDATA[Arma de Mão]]></entry>
+    <entry id="upgrade_tree_name_musketeer.patch_up"><![CDATA[Mantenha o Foco]]></entry>
+    <entry id="upgrade_tree_name_musketeer.skeet_shot"><![CDATA[Levantar a Moral]]></entry>
+			<!-- Musketeer Trinkets -->
+    <entry id="str_inventory_title_trinketmedics_boots"><![CDATA[Botas Confortáveis]]></entry>
+			<!-- Musketeer Camping Skills -->
+    <entry id="camping_skill_name_field_dressing_musketeer_rework"><![CDATA[DAR UMA MORAL]]></entry>
+    <entry id="camping_skill_name_triage_musketeer_rework"><![CDATA[TODOS POR UM]]></entry>
+    <entry id="str_bark_field_dressing_musketeer_rework"><![CDATA[Já ouviu falar do código dos mosqueteiros?]]></entry>
+    <entry id="str_bark_triage_musketeer_rework"><![CDATA[Um por todos e todos por um!]]></entry>
+  </language>
+  <language id="polish">
+			<!-- Musketeer Abilities -->
+    <entry id="combat_skill_name_musketeer_aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="combat_skill_name_musketeer_call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="combat_skill_name_musketeer_sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[Raise Morale]]></entry>
+    <entry id="combat_skill_name_musketeer_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_musketeer.aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="upgrade_tree_name_musketeer.call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="upgrade_tree_name_musketeer.sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="upgrade_tree_name_musketeer.patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="upgrade_tree_name_musketeer.skeet_shot"><![CDATA[Raise Morale]]></entry>
+			<!-- Musketeer Trinkets -->
+    <entry id="str_inventory_title_trinketmedics_boots"><![CDATA[Confy Boots]]></entry>
+			<!-- Musketeer Camping Skills -->
+    <entry id="camping_skill_name_field_dressing_musketeer_rework"><![CDATA[CHEER UP]]></entry>
+    <entry id="camping_skill_name_triage_musketeer_rework"><![CDATA[ONE FOR ALL]]></entry>
+    <entry id="str_bark_field_dressing_musketeer_rework"><![CDATA[Have you heard of the musketeers code of honor?]]></entry>
+    <entry id="str_bark_triage_musketeer_rework"><![CDATA[One for all and all for one!]]></entry>
+
+  </language>
+  <language id="czech">
+  			<!-- Musketeer Abilities -->
+    <entry id="combat_skill_name_musketeer_aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="combat_skill_name_musketeer_call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="combat_skill_name_musketeer_sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[Raise Morale]]></entry>
+    <entry id="combat_skill_name_musketeer_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_musketeer.aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="upgrade_tree_name_musketeer.call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="upgrade_tree_name_musketeer.sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="upgrade_tree_name_musketeer.patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="upgrade_tree_name_musketeer.skeet_shot"><![CDATA[Raise Morale]]></entry>
+			<!-- Musketeer Trinkets -->
+    <entry id="str_inventory_title_trinketmedics_boots"><![CDATA[Confy Boots]]></entry>
+			<!-- Musketeer Camping Skills -->
+    <entry id="camping_skill_name_field_dressing_musketeer_rework"><![CDATA[CHEER UP]]></entry>
+    <entry id="camping_skill_name_triage_musketeer_rework"><![CDATA[ONE FOR ALL]]></entry>
+    <entry id="str_bark_field_dressing_musketeer_rework"><![CDATA[Have you heard of the musketeers code of honor?]]></entry>
+    <entry id="str_bark_triage_musketeer_rework"><![CDATA[One for all and all for one!]]></entry>
+
+
+  </language>
+  <language id="italian">
+			<!-- Musketeer Abilities -->
+    <entry id="combat_skill_name_musketeer_aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="combat_skill_name_musketeer_call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="combat_skill_name_musketeer_sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[Raise Morale]]></entry>
+    <entry id="combat_skill_name_musketeer_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_musketeer.aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="upgrade_tree_name_musketeer.call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="upgrade_tree_name_musketeer.sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="upgrade_tree_name_musketeer.patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="upgrade_tree_name_musketeer.skeet_shot"><![CDATA[Raise Morale]]></entry>
+			<!-- Musketeer Trinkets -->
+    <entry id="str_inventory_title_trinketmedics_boots"><![CDATA[Confy Boots]]></entry>
+			<!-- Musketeer Camping Skills -->
+    <entry id="camping_skill_name_field_dressing_musketeer_rework"><![CDATA[CHEER UP]]></entry>
+    <entry id="camping_skill_name_triage_musketeer_rework"><![CDATA[ONE FOR ALL]]></entry>
+    <entry id="str_bark_field_dressing_musketeer_rework"><![CDATA[Have you heard of the musketeers code of honor?]]></entry>
+    <entry id="str_bark_triage_musketeer_rework"><![CDATA[One for all and all for one!]]></entry>
+
+  </language>
+  <language id="schinese">
+			<!-- Musketeer Abilities -->
+    <entry id="combat_skill_name_musketeer_aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="combat_skill_name_musketeer_call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="combat_skill_name_musketeer_sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[Raise Morale]]></entry>
+    <entry id="combat_skill_name_musketeer_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_musketeer.aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="upgrade_tree_name_musketeer.call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="upgrade_tree_name_musketeer.sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="upgrade_tree_name_musketeer.patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="upgrade_tree_name_musketeer.skeet_shot"><![CDATA[Raise Morale]]></entry>
+			<!-- Musketeer Trinkets -->
+    <entry id="str_inventory_title_trinketmedics_boots"><![CDATA[Confy Boots]]></entry>
+			<!-- Musketeer Camping Skills -->
+    <entry id="camping_skill_name_field_dressing_musketeer_rework"><![CDATA[CHEER UP]]></entry>
+    <entry id="camping_skill_name_triage_musketeer_rework"><![CDATA[ONE FOR ALL]]></entry>
+    <entry id="str_bark_field_dressing_musketeer_rework"><![CDATA[Have you heard of the musketeers code of honor?]]></entry>
+    <entry id="str_bark_triage_musketeer_rework"><![CDATA[One for all and all for one!]]></entry>
+
+  </language>
+  <language id="japanese">
+			<!-- Musketeer Abilities -->
+    <entry id="combat_skill_name_musketeer_aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="combat_skill_name_musketeer_call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="combat_skill_name_musketeer_sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[Raise Morale]]></entry>
+    <entry id="combat_skill_name_musketeer_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_musketeer.aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="upgrade_tree_name_musketeer.call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="upgrade_tree_name_musketeer.sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="upgrade_tree_name_musketeer.patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="upgrade_tree_name_musketeer.skeet_shot"><![CDATA[Raise Morale]]></entry>
+			<!-- Musketeer Trinkets -->
+    <entry id="str_inventory_title_trinketmedics_boots"><![CDATA[Confy Boots]]></entry>
+			<!-- Musketeer Camping Skills -->
+    <entry id="camping_skill_name_field_dressing_musketeer_rework"><![CDATA[CHEER UP]]></entry>
+    <entry id="camping_skill_name_triage_musketeer_rework"><![CDATA[ONE FOR ALL]]></entry>
+    <entry id="str_bark_field_dressing_musketeer_rework"><![CDATA[Have you heard of the musketeers code of honor?]]></entry>
+    <entry id="str_bark_triage_musketeer_rework"><![CDATA[One for all and all for one!]]></entry>
+
+  </language>
+  <language id="koreanb">
+			<!-- Musketeer Abilities -->
+    <entry id="combat_skill_name_musketeer_aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="combat_skill_name_musketeer_call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="combat_skill_name_musketeer_sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[Raise Morale]]></entry>
+    <entry id="combat_skill_name_musketeer_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_musketeer.aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="upgrade_tree_name_musketeer.call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="upgrade_tree_name_musketeer.sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="upgrade_tree_name_musketeer.patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="upgrade_tree_name_musketeer.skeet_shot"><![CDATA[Raise Morale]]></entry>
+			<!-- Musketeer Trinkets -->
+    <entry id="str_inventory_title_trinketmedics_boots"><![CDATA[Confy Boots]]></entry>
+			<!-- Musketeer Camping Skills -->
+    <entry id="camping_skill_name_field_dressing_musketeer_rework"><![CDATA[CHEER UP]]></entry>
+    <entry id="camping_skill_name_triage_musketeer_rework"><![CDATA[ONE FOR ALL]]></entry>
+    <entry id="str_bark_field_dressing_musketeer_rework"><![CDATA[Have you heard of the musketeers code of honor?]]></entry>
+    <entry id="str_bark_triage_musketeer_rework"><![CDATA[One for all and all for one!]]></entry>
+
+  </language>
+  <language id="koreana">
+			<!-- Musketeer Abilities -->
+    <entry id="combat_skill_name_musketeer_aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="combat_skill_name_musketeer_call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="combat_skill_name_musketeer_sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[Raise Morale]]></entry>
+    <entry id="combat_skill_name_musketeer_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_musketeer.aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="upgrade_tree_name_musketeer.call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="upgrade_tree_name_musketeer.sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="upgrade_tree_name_musketeer.patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="upgrade_tree_name_musketeer.skeet_shot"><![CDATA[Raise Morale]]></entry>
+			<!-- Musketeer Trinkets -->
+    <entry id="str_inventory_title_trinketmedics_boots"><![CDATA[Confy Boots]]></entry>
+			<!-- Musketeer Camping Skills -->
+    <entry id="camping_skill_name_field_dressing_musketeer_rework"><![CDATA[CHEER UP]]></entry>
+    <entry id="camping_skill_name_triage_musketeer_rework"><![CDATA[ONE FOR ALL]]></entry>
+    <entry id="str_bark_field_dressing_musketeer_rework"><![CDATA[Have you heard of the musketeers code of honor?]]></entry>
+    <entry id="str_bark_triage_musketeer_rework"><![CDATA[One for all and all for one!]]></entry>
+
+  </language>
+  <language id="french">
+			<!-- Musketeer Abilities -->
+    <entry id="combat_skill_name_musketeer_aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="combat_skill_name_musketeer_call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="combat_skill_name_musketeer_sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[Raise Morale]]></entry>
+    <entry id="combat_skill_name_musketeer_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_musketeer.aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="upgrade_tree_name_musketeer.call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="upgrade_tree_name_musketeer.sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="upgrade_tree_name_musketeer.patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="upgrade_tree_name_musketeer.skeet_shot"><![CDATA[Raise Morale]]></entry>
+			<!-- Musketeer Trinkets -->
+    <entry id="str_inventory_title_trinketmedics_boots"><![CDATA[Confy Boots]]></entry>
+			<!-- Musketeer Camping Skills -->
+    <entry id="camping_skill_name_field_dressing_musketeer_rework"><![CDATA[CHEER UP]]></entry>
+    <entry id="camping_skill_name_triage_musketeer_rework"><![CDATA[ONE FOR ALL]]></entry>
+    <entry id="str_bark_field_dressing_musketeer_rework"><![CDATA[Have you heard of the musketeers code of honor?]]></entry>
+    <entry id="str_bark_triage_musketeer_rework"><![CDATA[One for all and all for one!]]></entry>
+  </language>
+  <language id="german">
+			<!-- Musketeer Abilities -->
+    <entry id="combat_skill_name_musketeer_aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="combat_skill_name_musketeer_call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="combat_skill_name_musketeer_sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[Raise Morale]]></entry>
+    <entry id="combat_skill_name_musketeer_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_musketeer.aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="upgrade_tree_name_musketeer.call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="upgrade_tree_name_musketeer.sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="upgrade_tree_name_musketeer.patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="upgrade_tree_name_musketeer.skeet_shot"><![CDATA[Raise Morale]]></entry>
+			<!-- Musketeer Trinkets -->
+    <entry id="str_inventory_title_trinketmedics_boots"><![CDATA[Confy Boots]]></entry>
+			<!-- Musketeer Camping Skills -->
+    <entry id="camping_skill_name_field_dressing_musketeer_rework"><![CDATA[CHEER UP]]></entry>
+    <entry id="camping_skill_name_triage_musketeer_rework"><![CDATA[ONE FOR ALL]]></entry>
+    <entry id="str_bark_field_dressing_musketeer_rework"><![CDATA[Have you heard of the musketeers code of honor?]]></entry>
+    <entry id="str_bark_triage_musketeer_rework"><![CDATA[One for all and all for one!]]></entry>
+  </language>
+  <language id="spanish">
+			<!-- Musketeer Abilities -->
+    <entry id="combat_skill_name_musketeer_aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="combat_skill_name_musketeer_call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="combat_skill_name_musketeer_sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[Raise Morale]]></entry>
+    <entry id="combat_skill_name_musketeer_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_musketeer.aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="upgrade_tree_name_musketeer.call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="upgrade_tree_name_musketeer.sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="upgrade_tree_name_musketeer.patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="upgrade_tree_name_musketeer.skeet_shot"><![CDATA[Raise Morale]]></entry>
+			<!-- Musketeer Trinkets -->
+    <entry id="str_inventory_title_trinketmedics_boots"><![CDATA[Confy Boots]]></entry>
+			<!-- Musketeer Camping Skills -->
+    <entry id="camping_skill_name_field_dressing_musketeer_rework"><![CDATA[CHEER UP]]></entry>
+    <entry id="camping_skill_name_triage_musketeer_rework"><![CDATA[ONE FOR ALL]]></entry>
+    <entry id="str_bark_field_dressing_musketeer_rework"><![CDATA[Have you heard of the musketeers code of honor?]]></entry>
+    <entry id="str_bark_triage_musketeer_rework"><![CDATA[One for all and all for one!]]></entry>
+  </language>
+  <language id="russian">
+			<!-- Musketeer Abilities -->
+    <entry id="combat_skill_name_musketeer_aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="combat_skill_name_musketeer_call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="combat_skill_name_musketeer_sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[Raise Morale]]></entry>
+    <entry id="combat_skill_name_musketeer_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_musketeer.aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="upgrade_tree_name_musketeer.call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.buckshot"><![CDATA[Anti Armor Bullet]]></entry>
+    <entry id="upgrade_tree_name_musketeer.sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="upgrade_tree_name_musketeer.patch_up"><![CDATA[Keep Focused]]></entry>
+    <entry id="upgrade_tree_name_musketeer.skeet_shot"><![CDATA[Raise Morale]]></entry>
+			<!-- Musketeer Trinkets -->
+    <entry id="str_inventory_title_trinketmedics_boots"><![CDATA[Confy Boots]]></entry>
+			<!-- Musketeer Camping Skills -->
+    <entry id="camping_skill_name_field_dressing_musketeer_rework"><![CDATA[CHEER UP]]></entry>
+    <entry id="camping_skill_name_triage_musketeer_rework"><![CDATA[ONE FOR ALL]]></entry>
+    <entry id="str_bark_field_dressing_musketeer_rework"><![CDATA[Have you heard of the musketeers code of honor?]]></entry>
+    <entry id="str_bark_triage_musketeer_rework"><![CDATA[One for all and all for one!]]></entry>
+  </language>
+</root>
+

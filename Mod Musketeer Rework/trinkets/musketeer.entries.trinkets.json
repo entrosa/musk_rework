@@ -1,0 +1,86 @@
+{
+   "entries":
+   [
+      {
+         "id" : "wrathful_hat",
+         "buffs" : 
+         [
+            "TRINKET_BACKRANK_DMGL_B3",
+            "TRINKET_BACKRANK_DMGH_B3",
+            "TRINKET_MOVESKILL_B2",
+            "TRINKET_wrathful_hat_STRESSHEALDONE_DEBUFF"
+         ],
+         "hero_class_requirements":
+         [
+            "musketeer"
+         ],
+         "rarity" : "very_rare",
+         "price" : 25000,
+         "limit" : 0,
+         "origin_dungeon" : "warrens"
+      },
+      {
+         "id" : "bulls_eye_hat",
+         "buffs" : 
+         [
+            "TRINKET_ACC_B2",
+            "TRINKET_CRIT_B2",
+            "TRINKET_DEF_D2"
+         ],
+         "hero_class_requirements":
+         [
+            "musketeer"
+         ],
+         "rarity" : "rare",
+         "price" : 15000,
+         "limit" : 0,
+         "origin_dungeon" : ""
+      },
+      {
+         "id" : "medics_boots",
+         "buffs" : 
+         [
+            "TRINKET_medics_boots_STRESSHEALDONE_BUFF"
+         ],
+         "hero_class_requirements":
+         [
+            "musketeer"
+         ],
+         "rarity" : "uncommon",
+         "price" : 10000,
+         "limit" : 0,
+         "origin_dungeon" : ""
+      },
+      {
+         "id" : "sturdy_boots",
+         "buffs" : 
+         [
+            "TRINKET_sturdy_boots_MOVESKILLCHANCE_BUFF",
+            "TRINKET_sturdy_boots_DEBUFFSKILLCHANCE_BUFF"
+         ],
+         "hero_class_requirements":
+         [
+            "musketeer"
+         ],
+         "rarity" : "common",
+         "price" : 7500,
+         "limit" : 0,
+         "origin_dungeon" : ""
+      },
+      {
+         "id" : "vengeful_boots",
+         "buffs" : 
+         [
+            "TRINKET_CRIT_B1"
+         ],
+         "hero_class_requirements":
+         [
+            "musketeer"
+         ],
+         "rarity" : "common",
+         "price" : 7500,
+         "limit" : 0,
+         "origin_dungeon" : ""
+      }
+   ]
+}

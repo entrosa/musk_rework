@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<PreviewIconFile>preview_icon.png</PreviewIconFile>
+	<ItemDescriptionShort/>
+	<ModDataPath>C:/Users/bruno/OneDrive/Documentos/DD mods feitos pelo pai/Rework da mosqueteira/musk_rework/Mod Musketeer Rework/</ModDataPath>
+	<Title>The Musketeer Rework Prophecy is True</Title>
+	<Language>english</Language>
+	<UpdateDetails/>
+	<Visibility>public</Visibility>
+	<UploadMode>direct_upload</UploadMode>
+	<VersionMajor>1</VersionMajor>
+	<VersionMinor>0</VersionMinor>
+	<TargetBuild>0</TargetBuild>
+	<Tags>
+		<Tags>Class Tweaks</Tags>
+	</Tags>
+	<ItemDescription>[h1] INTRODUCTION [/h1]
+So...
+Everyone at this point has probaly done a Musketeer rework and I decided to do one too.
+
+First of all, the reason I&apos;m doing this is because I really think she needs a unique identity that separates her from arbalest. Also I know that there are a LOT of reworks and etc about her in the workshop, but even though I saw a lot of good ideas, I always thought something was missing and wanted to give my on take.
+
+With that in mind, I decided to give her a range damage dealer/mark synergy/stress healer indentity. Not only that but I really think that arbalest/musketeer are on the weaker side on the vanilla game, especially when you go into harder difficulties, so I also tried to up her a bit in the balance aspect.
+
+Also, keep in mind that I have zero skills with anything that involves art, so I didnt change ANY of the icons, animations or sound BUT I do think the old animations worked quite well with the rework. This does mean that all musketeer skins should work with this mod though.
+
+Lastly, this is my first time doing any type of coding/moding and previously of this I had no knowledge at all. Yet I really tried to do a fun rework and I had a lot of fun learning and doing this mod, so I hope that other people have fun with it. That said feel free to leave feedback about the changes/balance or if you find any bug I will try to help.
+
+[b]TL DR :
+-Range DMG / Mark Synergy / Stress Healer new identity.
+-No new Animations/Sound/Icons and all the old ones were kept because I dont have artistic skills.[/b]
+
+[h1]WHAT HAS CHANGED ?[/h1]
+ I Changed/Reworked the majority of her skills, camping skills, trinkets (including CC and COM), and base stats.
+I also gonna leave my entire thought process behind every change in a discussion so feel free to read why I did X or Y.
+
+[h1] Base Stats [/h1]
+[b]Base Dmg[/b] Medium Increase.
+[b]Base HP[/b] Great decrease.
+[b]Base Dodge[/b] Small Increase.
+
+[h1] Skills [/h1]
+[b]1.Aimed Shot[/b]
+Basically the same but has slightly lower (10%) DMG vs Marked targets
+
+[b]2.Smokescreen[/b]
+Basically the same as well but now can target rank 2 and the debuff lasts 1 round longer
+
+[b]3.Call the shot[/b]
+Can now targert rank 1, and now debuffs SPEED instead of DODGE
+
+[b]4.Anti Armor Bullet[/b]
+Used to be Buckshot
+Can be used from ranks 43 and targets ranks 12
+its a single target dmg skill that has slightly negative damage mod
+it has KNOCKBACK and debuffs target PROT
+
+[b]5.Sidearm[/b]
+Changed from being usable from all ranks to only ranks 21
+Can target any rank and is no longer random target
+Now moves BACK 2 instead of buffing SPEED 
+
+[b]6.Keep Focused[/b]
+Used to be Patch Up
+Its now a stress heal hability
+Can be used from ranks 43
+Clears stuns/Marks
+Buffs ACC
+
+[b]7.Raise Morale[/b]
+Used to be Skeet Shot
+Its a 1 per battle party buff
+It can be used from ranks 43 and lasts until combat end
+It buffs party ACC vs marked / DMG vs marked / CRIT vs marked
+
+[h1] Camp Skills  [/h1]
+[b]1.Cheer up[/b]
+Its now a time cost 1 target stress healing skill.
+It has 80% chance to heal 10 stress, 20% chance to heal another 10 stress.
+basically it will heal 10 stress most of the time and sometimes it will heal 0 or 20.
+
+[b]2. Marching Plan [/b]
+Unchanged
+
+[b]3. Clean Muskets [/b]
+Unchanged
+
+[b]4. One for All  [/b]
+Its now a time cost 3 Party stress heal
+It heals 10 stress from everybody
+
+[h1] Trinkets [/h1]
+[b]1.Sturdy Boots [/b]
+Changed to :
++15% skill move chance
++15% debuff skill chance
+
+[b]2. Vengeful Boots [/b]
+Unchanged
+
+[b]3.Confy Boots[/b]
+Used to be Medic&apos;s Boots
+Changed to:
++33% Stress Skills
+
+[b]4.Bull&apos;s Eye Hat [/b]
+Unchanged
+
+[b]5.Wrathful Hat[/b]
+Changed to:
++25% DMG if in rank 4
++30% Move Skill Chance
+-50% Stress Skills
+
+[b]6.Crimson Court Set[/b]
+Second Place Trophy 
+Changed to:
++30% Stress Skills
++20% Stress Skills while camping
+-15% Stress
+
+Silver Musket Ball
+Uchanged
+
+Set bonus changed to:
++15% DMG
+
+[b]7. Icosahedric Musket Balls (COM trinket)[/b]
+Changed to:
++35% DMG
+-15 ACC
++5 stress on miss
+
+[h1]COMPATIBILITY[/h1]
+Doesn&apos;t have compatibility with any mods that changes these files:
+[code]
+raid\camping\default.camping_skills.json
+dlc\580100_crimson_court\features\crimson_court\trinkets\crimson_court.entries.trinkets.json
+dlc\735730_color_of_madness\trinkets\com.entries.trinkets.json[/code]
+Basically, doesn&apos;t have compatibility with any mods that changes the vanilla heroes camping skills and/or the vanilla heroes CC/COM trinkets.
+
+[h1]LOCALIZATION[/h1]
+Only English and Portuguese (sou brasileiro né).
+
+[h1]LEGAL STUFF[/h1]
+This item and its contents may not be uploaded on any website without my direct permission.
+
+[b]
+This mod is not an official Red Hook Studios product or product modification, and Red Hook Studios Inc. is not responsible in any way for changes or damages that may result from using the mod. Furthermore, “Darkest Dungeon” and the Darkest Dungeon logo are trademarks of Red Hook Studios Inc. All content in the game is Copyright Red Hook Studios Inc. All rights reserved.[/b]</ItemDescription>
+	<PublishedFileId>2902790218</PublishedFileId>
+</project>
+

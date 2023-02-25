@@ -1,0 +1,422 @@
+{
+	"buffs":
+	[
+		
+		{
+        	"id" : "Musk_Raise_DmgL_Mark_1",
+        	"stat_type" : "combat_stat_multiply",
+        	"stat_sub_type" : "damage_low",
+        	"amount" : 0.05,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_DmgL_Mark_2",
+        	"stat_type" : "combat_stat_multiply",
+        	"stat_sub_type" : "damage_low",
+        	"amount" : 0.10,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_DmgL_Mark_3",
+        	"stat_type" : "combat_stat_multiply",
+        	"stat_sub_type" : "damage_low",
+        	"amount" : 0.15,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_DmgL_Mark_4",
+        	"stat_type" : "combat_stat_multiply",
+        	"stat_sub_type" : "damage_low",
+        	"amount" : 0.20,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_DmgL_Mark_5",
+        	"stat_type" : "combat_stat_multiply",
+        	"stat_sub_type" : "damage_low",
+        	"amount" : 0.25,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_DmgH_Mark_1",
+        	"stat_type" : "combat_stat_multiply",
+        	"stat_sub_type" : "damage_high",
+        	"amount" : 0.5,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_DmgH_Mark_2",
+        	"stat_type" : "combat_stat_multiply",
+        	"stat_sub_type" : "damage_high",
+        	"amount" : 0.10,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_DmgH_Mark_3",
+        	"stat_type" : "combat_stat_multiply",
+        	"stat_sub_type" : "damage_high",
+        	"amount" : 0.15,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_DmgH_Mark_4",
+        	"stat_type" : "combat_stat_multiply",
+        	"stat_sub_type" : "damage_high",
+        	"amount" : 0.20,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_DmgH_Mark_5",
+        	"stat_type" : "combat_stat_multiply",
+        	"stat_sub_type" : "damage_high",
+        	"amount" : 0.10,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_Acc_Mark_1",
+        	"stat_type" : "combat_stat_add",
+        	"stat_sub_type" : "attack_rating",
+        	"amount" : 0.04,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_Acc_Mark_2",
+        	"stat_type" : "combat_stat_add",
+        	"stat_sub_type" : "attack_rating",
+        	"amount" : 0.06,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_Acc_Mark_3",
+        	"stat_type" : "combat_stat_add",
+        	"stat_sub_type" : "attack_rating",
+        	"amount" : 0.08,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_Acc_Mark_4",
+        	"stat_type" : "combat_stat_add",
+        	"stat_sub_type" : "attack_rating",
+        	"amount" : 0.10,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_Acc_Mark_5",
+        	"stat_type" : "combat_stat_add",
+        	"stat_sub_type" : "attack_rating",
+        	"amount" : 0.12,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_Crit_Mark_1",
+        	"stat_type" : "combat_stat_add",
+        	"stat_sub_type" : "crit_chance",
+        	"amount" : 0.02,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_Crit_Mark_2",
+        	"stat_type" : "combat_stat_add",
+        	"stat_sub_type" : "crit_chance",
+        	"amount" : 0.03,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_Crit_Mark_3",
+        	"stat_type" : "combat_stat_add",
+        	"stat_sub_type" : "crit_chance",
+        	"amount" : 0.04,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_Crit_Mark_4",
+        	"stat_type" : "combat_stat_add",
+        	"stat_sub_type" : "crit_chance",
+        	"amount" : 0.05,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+        	"id" : "Musk_Raise_Crit_Mark_5",
+        	"stat_type" : "combat_stat_add",
+        	"stat_sub_type" : "crit_chance",
+        	"amount" : 0.06,
+        	"remove_if_not_active" : false,
+        	"rule_type" : "actorStatus",
+        	"is_false_rule" : false,
+        	"rule_data" : {
+        		"float" : 0,
+        		"string" : "tagged"
+        	}
+        },
+		{
+			"id" : "TRINKET_wrathful_hat_STRESSHEALDONE_DEBUFF",
+			"stat_type" : "stress_heal_percent",
+			"stat_sub_type" : "",
+			"amount" : -0.50,
+			"remove_if_not_active" : false,
+			"rule_type" : "always",
+			"is_false_rule" : false,
+			"rule_data" : {
+				"float" : 0,
+				"string" : ""
+			}
+		},
+		{
+			"id" : "TRINKET_medics_boots_STRESSHEALDONE_BUFF",
+			"stat_type" : "stress_heal_percent",
+			"stat_sub_type" : "",
+			"amount" : 0.33,
+			"remove_if_not_active" : false,
+			"rule_type" : "always",
+			"is_false_rule" : false,
+			"rule_data" : {
+				"float" : 0,
+				"string" : ""
+			}
+		},
+		{
+			"id" : "TRINKET_sturdy_boots_MOVESKILLCHANCE_BUFF",
+			"stat_type" : "move_chance",
+			"stat_sub_type" : "",
+			"amount" : 0.15,
+			"remove_if_not_active" : false,
+			"rule_type" : "always",
+			"is_false_rule" : false,
+			"rule_data" : {
+				"float" : 0,
+				"string" : ""
+			}
+		},
+		{
+			"id" : "TRINKET_sturdy_boots_DEBUFFSKILLCHANCE_BUFF",
+			"stat_type" : "debuff_chance",
+			"stat_sub_type" : "",
+			"amount" : 0.15,
+			"remove_if_not_active" : false,
+			"rule_type" : "always",
+			"is_false_rule" : false,
+			"rule_data" : {
+				"float" : 0,
+				"string" : ""
+			}
+		},
+		{
+			"id" : "TRINKET_musk_first_place_trophy_STRESSHEALDONE_buff",
+			"stat_type" : "stress_heal_percent",
+			"stat_sub_type" : "",
+			"amount" : 0.30,
+			"remove_if_not_active" : false,
+			"rule_type" : "always",
+			"is_false_rule" : false,
+			"rule_data" : {
+				"float" : 0,
+				"string" : ""
+			}
+		},
+		{
+			"id" : "TRINKET_musk_first_place_trophy_STRESSHEALDONE_in_camp",
+			"stat_type" : "stress_heal_percent",
+			"stat_sub_type" : "",
+			"amount" : 0.20,
+			"remove_if_not_active" : false,
+			"rule_type" : "in_camp",
+			"is_false_rule" : false,
+			"rule_data" : {
+				"float" : 0,
+				"string" : ""
+			}
+		},
+		{
+			"id" : "TRINKET_musk_CCSET_DmgL",
+			"stat_type" : "combat_stat_multiply",
+			"stat_sub_type" : "damage_low",
+			"amount" : 0.15,
+			"remove_if_not_active" : false,
+			"rule_type" : "always",
+			"is_false_rule" : false,
+			"rule_data" : {
+				"float" : 0,
+				"string" : ""
+			}
+		},
+		{
+			"id" : "TRINKET_musk_CCSET_DmgH",
+			"stat_type" : "combat_stat_multiply",
+			"stat_sub_type" : "damage_high",
+			"amount" : 0.15,
+			"remove_if_not_active" : false,
+			"rule_type" : "always",
+			"is_false_rule" : false,
+			"rule_data" : {
+				"float" : 0,
+				"string" : ""
+			}
+		},
+		{
+		   "id" : "TRINKET_com_msk_icosahedric_balls_stress_on_miss",
+		   "stat_type" : "stress_on_miss",
+		   "stat_sub_type" : "STRESS_AMOUNT",
+		   "amount" : 5,
+		   "remove_if_not_active" : false,
+		   "rule_type" : "always",
+		   "is_false_rule" : false,
+		   "rule_data" : {
+		      "float" : 0,
+		      "string" : ""
+		   }
+		},
+		{
+		   "id" : "TRINKET_com_msk_icosahedric_balls_DmgL",
+		   "stat_type" : "combat_stat_multiply",
+		   "stat_sub_type" : "damage_low",
+		   "amount" : 0.35,
+		   "remove_if_not_active" : false,
+		   "rule_type" : "always",
+		   "is_false_rule" : false,
+		   "rule_data" : {
+		      "float" : 0,
+		      "string" : ""
+		   }
+		},
+		{
+		   "id" : "TRINKET_com_msk_icosahedric_balls_DmgH",
+		   "stat_type" : "combat_stat_multiply",
+		   "stat_sub_type" : "damage_high",
+		   "amount" : 0.35,
+		   "remove_if_not_active" : false,
+		   "rule_type" : "always",
+		   "is_false_rule" : false,
+		   "rule_data" : {
+		      "float" : 0,
+		      "string" : ""
+		   }
+		},
+		{
+		   "id" : "TRINKET_com_msk_icosahedric_balls_Acc_Debuff",
+		   "stat_type" : "combat_stat_add",
+		   "stat_sub_type" : "attack_rating",
+		   "amount" : -0.15,
+		   "remove_if_not_active" : false,
+		   "rule_type" : "always",
+		   "is_false_rule" : false,
+		   "rule_data" : {
+		      "float" : 0,
+		      "string" : ""
+		   }
+		}
+	]
+}

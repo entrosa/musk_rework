@@ -1,0 +1,15 @@
+{
+   "sets":
+		[
+      
+	  
+			{
+				"id" : "cc_msk",
+				"buffs" : 
+				[
+					"TRINKET_musk_CCSET_DmgL",
+					"TRINKET_musk_CCSET_DmgH"
+				]
+			}
+		]
+}
