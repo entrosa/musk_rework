@@ -1,2 +1,2 @@
-# musk_rework
-mod da mosqueteira
+# DD_musk_rework
+darkest dungeon musketeer modded rework
